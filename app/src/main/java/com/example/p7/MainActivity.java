@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 	
 	// 原创太菜 
+		//罗传波 修改 张友瑜 大傻逼
+		
 //什么玩意
         Log.e("tag","hello word");
 //什么玩意
