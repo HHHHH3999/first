@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+//什么玩意
         Log.e("tag","hello word");
         Log.e("tag","混乱了混乱了");
         Log.e("tag","混乱了混乱了");
