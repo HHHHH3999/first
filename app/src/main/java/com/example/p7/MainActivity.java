@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 	// 原创太菜 
 
 //宋嘉鑫提交
-
+//nkj
 //什么玩意
         Log.e("tag","hello word");
 //什么玩意
