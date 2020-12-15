@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.e("tag","hello word");
-
+        Log.e("tag","混乱了混乱了");
+        Log.i("TAG","就这！！就这");
     }
 }
